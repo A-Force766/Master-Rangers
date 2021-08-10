@@ -1,0 +1,18 @@
+.body_background
+{
+background-image: url(backg.jpg);
+background-position: center;
+background-size: cover;
+}
+#MCV
+{
+border-width:10px;
+border-color: cornsilk;
+border-style: ridge;
+}
+h3
+{
+width:2000px;
+background-color:gold;
+display:inline-block;
+}
